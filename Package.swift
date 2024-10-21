@@ -20,7 +20,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         .package(
             url: "https://github.com/3sidedcube/cubefoundation-ios/",
-            branch: "develop"
+            revision: "98a3da102c6da6c24b62a4524c20652d849d7aab"
         ),
     ],
     targets: [
